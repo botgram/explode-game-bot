@@ -1,11 +1,11 @@
-# explode-game
+# explode-game-bot
 
-This is a functional game integrated with [Telegram's gaming platform](https://core.telegram.org/bots/games).
-It's based on [this pen](https://codepen.io/towc/pen/BfAhe) by [Matei Copot](https://codepen.io/towc), and it's very simple:
+This [Telegram bot][] offers a functional game integrated with the [gaming platform][],
+It's based on [this pen][pen] by [Matei Copot], and it's very simple:
 tap somewhere to begin a chain reaction of particles exploding. The more particles
 destroyed (and the faster the process), the higher the score you get.
 
-The example demostrates use of the Botgram API for the gaming platform,
+The example demostrates how to use [Botgram][]'s API for the gaming platform,
 and the deployment needed for Telegram games in general.
 
 ![Game screenshot](https://i.imgur.com/M7pG4Pj.png)
@@ -55,3 +55,11 @@ Interesting things to implement:
  - Manually editing the message and calling `getGameHighScores` to build a score table.
  - Displaying the user's name and realtime (local) score table in the game itself.
  - Adding a share button in the game itself.
+
+
+
+[Telegram bot]: https://core.telegram.org/bots
+[Botgram]: http://botgram.js.org
+[gaming platform]: https://core.telegram.org/bots/games
+[pen]: https://codepen.io/towc/pen/BfAhe
+[Matei Copot]: https://codepen.io/towc
