@@ -59,7 +59,7 @@ Interesting things to implement:
 
 
 [Telegram bot]: https://core.telegram.org/bots
-[Botgram]: http://botgram.js.org
+[Botgram]: https://botgram.js.org
 [gaming platform]: https://core.telegram.org/bots/games
 [pen]: https://codepen.io/towc/pen/BfAhe
 [Matei Copot]: https://codepen.io/towc
