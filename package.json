@@ -8,7 +8,7 @@
 
   "dependencies": {
     "botgram": "2",
-    "express": "4"
+    "express": "^4.5"
   },
 
   "bugs": {
